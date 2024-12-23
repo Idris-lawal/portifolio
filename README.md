@@ -23,3 +23,13 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 This analysis is looking towards the Nigerian Agricutural exports between 2022 and 2023.
 
 [Read More](https://medium.com/@lawid3001/nigeria-agricultural-export-analysis-a9cbfae84cf4/)
+
+
+**Income statement Analysis.**
+![image](0_epw1MQWJ6tSbb0hz.webp)
+
+This analysis is looking towards the Nigerian Agricutural exports between 2022 and 2023.
+
+[Read More](https://medium.com/@lawid3001/income-statement-analysis-67capital-ltd-2941db37b2b2)
+
+
