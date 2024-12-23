@@ -26,7 +26,7 @@ This analysis is looking towards the Nigerian Agricutural exports between 2022 a
 
 
 **Income statement Analysis.**
-![image](0_epw1MQWJ6tSbb0hz.webp)
+![image](DALL·E 2024-12-14 16.34.25 - A visually appealing background image for a financial analysis report homepage. The design features a modern, abstract theme with financial elements s.webp)
 
 This analysis is looking towards the Nigerian Agricutural exports between 2022 and 2023.
 
