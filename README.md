@@ -18,7 +18,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **Nigeria Agricultural export.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](0_epw1MQWJ6tSbb0hz.webp)
 
 This analysis is looking towards the Nigerian Agricutural exports between 2022 and 2023.
 
