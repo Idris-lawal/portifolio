@@ -34,3 +34,34 @@ This analysis will provide valuable insights into our financial activities and h
 [Read More](https://medium.com/@lawid3001/income-statement-analysis-67capital-ltd-2941db37b2b2)
 
 
+
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:lawalidris3001@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 802-969-3008</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Lagos, Nigeria</td>
+    </tr>
+    <--<tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>--/>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/lawal-idris-o/">LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
