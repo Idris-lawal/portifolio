@@ -1,7 +1,7 @@
 ## ABOUT ME
 
 Hello! I'm Idris Lawal 🤓, a data analyst, financial reporting analyst, and consultant with a passion for turning data into actionable insights. With experience across financial reporting , finance, and customer service, I help businesses solve challenges and unlock growth.
-<!--Mention your top/relevant skills here - core and soft skills
+Mention your top/relevant skills here - core and soft skills
 ## WHAT I DO
 
 *As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
@@ -11,7 +11,7 @@ I automate financial reporting for financial institutions using data analytics t
 
 **- ✅ Staff Training & Development.**
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
--->
+
 
 ## MY PORTFOLIO 
 
@@ -52,10 +52,10 @@ This analysis will provide valuable insights into our financial activities and h
       <td>📍</td>
       <td>Lagos, Nigeria</td>
     </tr>
-    <--<tr>
+    <tr>
       <td>⬇️</td>
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>--/>
+    </tr>
     <tr>
       <td>🌐</td>
       <td><a href="https://www.linkedin.com/in/lawal-idris-o/">LinkedIn</a></td>
