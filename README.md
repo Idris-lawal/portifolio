@@ -6,8 +6,8 @@ Hello! I'm Idris Lawal 🤓, a data analyst, financial reporting analyst, and co
 
 *As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅Financial Reporting Consulting.**
+I automate financial reporting for financial institutions using data analytics tools. 
 
 **- ✅ Staff Training & Development.**
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
