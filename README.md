@@ -28,7 +28,8 @@ This analysis is looking towards the Nigerian Agricutural exports between 2022 a
 **Income statement Analysis.**
 ![image](DALL·E 2024-12-14 16.34.25 - A visually appealing background image for a financial analysis report homepage. The design features a modern, abstract theme with financial elements s.webp)
 
-This analysis is looking towards the Nigerian Agricutural exports between 2022 and 2023.
+This  analysis focus the Profit and Loss (P&L) statements across our six branches, in South-South Nigeria, over the four-year period from 2020 to 2023.
+This analysis will provide valuable insights into our financial activities and help inform strategic decisions moving forward.
 
 [Read More](https://medium.com/@lawid3001/income-statement-analysis-67capital-ltd-2941db37b2b2)
 
