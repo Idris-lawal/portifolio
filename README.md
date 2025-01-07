@@ -34,6 +34,9 @@ This analysis will provide valuable insights into our financial activities and h
 [Read More](https://medium.com/@lawid3001/income-statement-analysis-67capital-ltd-2941db37b2b2)
 
 
+[More of my analysis](https://medium.com/@lawid3001)
+
+
 
 ## CONTACT DETAILS
 
