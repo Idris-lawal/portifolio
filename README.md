@@ -4,7 +4,7 @@ Hello! I'm Idris Lawal 🤓, a data analyst, financial reporting analyst, and co
 Mention your top/relevant skills here - core and soft skills
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As the Financial analyst , I analyzing financial data to drive strategic decisions and profitability and mentor aspiring analysts.*
 
 **- ✅Financial Reporting Consulting.**
 I automate financial reporting for financial institutions using data analytics tools. 
@@ -42,7 +42,7 @@ This analysis will provide valuable insights into our financial activities and h
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:lawalidris3001@gmail.com</a></td>
+      <td><a href="lawalidris3001@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
