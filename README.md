@@ -55,10 +55,10 @@ This analysis will provide valuable insights into our financial activities and h
       <td>📍</td>
       <td>Lagos, Nigeria</td>
     </tr>
-    <tr>
+   <!-- <tr>
       <td>⬇️</td>
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
+    </tr>-->
     <tr>
       <td>🌐</td>
       <td><a href="https://www.linkedin.com/in/lawal-idris-o/">LinkedIn</a></td>
