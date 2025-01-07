@@ -13,7 +13,7 @@ I automate financial reporting for financial institutions using data analytics t
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
 
-## MY PORTFOLIO 
+## MY PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
 
