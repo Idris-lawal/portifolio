@@ -57,7 +57,7 @@ This analysis will provide valuable insights into our financial activities and h
     </tr>
    <!-- <tr>
       <td>⬇️</td>
-      <td><a href="Idris Lawal CV.pdf">Download my CV</a></td>
+      <td><a href="[Idris Lawal CV.pdf](https://github.com/Idris-lawal/portifolio/blob/main/Idris%20Lawal%20CV.pdf)">Download my CV</a></td>
     </tr>-->
     <tr>
       <td>🌐</td>
