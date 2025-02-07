@@ -45,7 +45,7 @@ This analysis will provide valuable insights into our financial activities and h
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="lawalidris3001@gmail.com</a></td>
+      <td><a href="lawalidris3001@gmail.com> lawalidris3001@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -55,10 +55,10 @@ This analysis will provide valuable insights into our financial activities and h
       <td>📍</td>
       <td>Lagos, Nigeria</td>
     </tr>
-   <!-- <tr>
+  <tr>
       <td>⬇️</td>
       <td><a href="[Idris Lawal CV.pdf](https://github.com/Idris-lawal/portifolio/blob/main/Idris%20Lawal%20CV.pdf)">Download my CV</a></td>
-    </tr>-->
+    </tr>
     <tr>
       <td>🌐</td>
       <td><a href="https://www.linkedin.com/in/lawal-idris-o/">LinkedIn</a></td>
