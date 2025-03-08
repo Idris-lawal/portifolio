@@ -40,7 +40,7 @@ This analysis will provide valuable insights into our financial activities and h
 
 ## CONTACT DETAILS
 
-*Let’s connect and see how we can make a difference together!*
+*Let’s connect and see how we can make a difference together!!*
 <table>
   <tbody>
     <tr>
